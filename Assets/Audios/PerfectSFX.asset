@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb3f2d2a574a25408ce2c68a97cc7b7, type: 3}
+  m_Name: PerfectSFX
+  m_EditorClassIdentifier: 
+  audioCuePlayMode: 2
+  audioType: 1
+  audioList:
+  - clip: {fileID: 8300000, guid: 65162171cc5022348b802597c73f46ed, type: 3}
+    volume: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: d15fa6e7153cb5b479a143917152256a, type: 3}
+    volume: 1
+    loop: 0

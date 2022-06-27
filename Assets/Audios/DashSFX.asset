@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb3f2d2a574a25408ce2c68a97cc7b7, type: 3}
+  m_Name: DashSFX
+  m_EditorClassIdentifier: 
+  audioCuePlayMode: 2
+  audioType: 1
+  audioList:
+  - clip: {fileID: 8300000, guid: 4910c10c093470241ae260e8ecb94a3b, type: 3}
+    volume: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: bbc22d1effeab524ca45491dd7ca942c, type: 3}
+    volume: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 2364870249b5d124da4c699f8fe94df6, type: 3}
+    volume: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: f93c156264950be49bdbc8d6e2b4bcdf, type: 3}
+    volume: 1
+    loop: 0
